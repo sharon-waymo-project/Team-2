@@ -10,6 +10,8 @@ This model contains a very shallow deep neural network. This neural network just
 ### Running the model:
 Running this model is very easy as you just need to provide the path to the training and testing data to the pd.read_csv() function at the beginning of the file, and then you can simply run the entire code.
 
+eg : path/train.csv
+
 ### Runtime of the model:
 The runtime of the code is pretty fast, and it can be completed in about 1 minute.
 
